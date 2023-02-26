@@ -4,7 +4,7 @@
 
 <template>
   <h1>
-    Hello Word!!!
+    La mia prima app con Vite!
   </h1>
 </template>
 
